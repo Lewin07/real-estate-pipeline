@@ -1,5 +1,7 @@
 .env
-ingest.log
 __pycache__/
 *.pyc
 venv/
+ingest.log
+load.log
+gcp-credentials.json

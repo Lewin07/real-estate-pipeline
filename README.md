@@ -73,7 +73,7 @@ Definidos en `ZIP_CODES` dentro de `ingest.py`. Se mantienen fijos entre corrida
 - [x] Ingesta con manejo de errores, retries y logging
 - [x] Tests unitarios
 - [x] Dockerizado
-- [ ] Carga a warehouse (BigQuery) — capa bronze/silver
+- [x] Carga a warehouse (BigQuery) — capa bronze/silver
 - [ ] Modelos dbt (silver → gold)
 - [ ] Orquestación automática (GitHub Actions, semanal)
 - [ ] Dashboard (Looker Studio)
