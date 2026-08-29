@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "13527-Bullick-Hollow-Rd,-Austin,-TX-78726",
+    "formattedAddress": "13527 Bullick Hollow Rd, Austin, TX 78726",
+    "addressLine1": "13527 Bullick Hollow Rd",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.43224939,
+    "longitude": -97.87387479,
+    "propertyType": "Single Family",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareFootage": 810,
+    "lotSize": 48343,
+    "yearBuilt": 1965,
+    "status": "Active",
+    "price": 749000,
+    "listingType": "Standard",
+    "listedDate": "2025-08-17T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-08-18T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:39:58.408Z",
+    "daysOnMarket": 378,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "9308720",
+    "listingAgent": {
+      "name": "Jason Pratt",
+      "phone": "5129886242",
+      "email": "jpratt@cornerstonepartnersrealty.com",
+      "website": "https://www.searchaustinlakehomes.com/"
+    },
+    "listingOffice": {
+      "name": "Michael Weigand, Broker",
+      "phone": "5126863862",
+      "email": "info@cornerstonepartnersrealty.com"
+    },
+    "history": {
+      "2025-08-17": {
+        "event": "Sale Listing",
+        "price": 749000,
+        "listingType": "Standard",
+        "listedDate": "2025-08-17T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 378
+      }
+    }
+  },
+  {
+    "id": "13033-FM-2769,-Austin,-TX-78726",
+    "formattedAddress": "13033 FM 2769, Austin, TX 78726",
+    "addressLine1": "13033 FM 2769",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.451584,
+    "longitude": -97.849664,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFootage": 2000,
+    "lotSize": 98489,
+    "yearBuilt": 1984,
+    "status": "Active",
+    "price": 1499000,
+    "listingType": "Standard",
+    "listedDate": "2026-01-02T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-01-03T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:38:54.228Z",
+    "daysOnMarket": 240,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "4844943",
+    "listingAgent": {
+      "name": "Steven Koleno",
+      "phone": "8046565007",
+      "email": "realtor@beycome.com",
+      "website": "https://www.beycome.com"
+    },
+    "listingOffice": {
+      "name": "Beycome Brokerage Realty LLC",
+      "phone": "6305263500",
+      "email": "steve@beycome.com"
+    },
+    "history": {
+      "2026-01-02": {
+        "event": "Sale Listing",
+        "price": 1499000,
+        "listingType": "Standard",
+        "listedDate": "2026-01-02T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 240
+      }
+    }
+  },
+  {
+    "id": "11115-Zimmerman-Ln,-Austin,-TX-78726",
+    "formattedAddress": "11115 Zimmerman Ln, Austin, TX 78726",
+    "addressLine1": "11115 Zimmerman Ln",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.408111,
+    "longitude": -97.844735,
+    "propertyType": "Land",
+    "lotSize": 110991,
+    "status": "Active",
+    "price": 199999,
+    "listingType": "New Construction",
+    "listedDate": "2026-01-16T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-01-09T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:38:34.950Z",
+    "daysOnMarket": 226,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "6291611",
+    "listingAgent": {
+      "name": "Joaquin Lopez",
+      "phone": "5125676429",
+      "website": "http://joaquin.kw.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Realty",
+      "phone": "5124484111",
+      "email": "jdgrubb@kw.com",
+      "website": "www.kellerwilliams.com"
+    },
+    "history": {
+      "2024-01-08": {
+        "event": "Sale Listing",
+        "price": 674999,
+        "listingType": "Standard",
+        "listedDate": "2024-01-08T00:00:00.000Z",
+        "removedDate": "2025-01-09T00:00:00.000Z",
+        "daysOnMarket": 367
+      },
+      "2026-01-16": {
+        "event": "Sale Listing",
+        "price": 199999,
+        "listingType": "New Construction",
+        "listedDate": "2026-01-16T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 226
+      }
+    }
+  },
+  {
+    "id": "12105-Terraza-Cir,-Unit-67,-Austin,-TX-78726",
+    "formattedAddress": "12105 Terraza Cir, Unit 67, Austin, TX 78726",
+    "addressLine1": "12105 Terraza Cir",
+    "addressLine2": "Unit 67",
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.428493,
+    "longitude": -97.845555,
+    "propertyType": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "squareFootage": 2233,
+    "lotSize": 10411,
+    "yearBuilt": 2009,
+    "hoa": {
+      "fee": 413
+    },
+    "status": "Active",
+    "price": 349950,
+    "listingType": "Standard",
+    "listedDate": "2026-01-29T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-10-20T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:38:34.861Z",
+    "daysOnMarket": 213,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "1147686",
+    "listingAgent": {
+      "name": "Bill Lanfer",
+      "email": "bill@billlanfer.com",
+      "website": "http://www.billlanfer.com"
+    },
+    "listingOffice": {
+      "name": "Solutions Real Estate Texas",
+      "phone": "5125354472",
+      "email": "bill@billlanfer.com"
+    },
+    "history": {
+      "2026-01-29": {
+        "event": "Sale Listing",
+        "price": 349950,
+        "listingType": "Standard",
+        "listedDate": "2026-01-29T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 213
+      }
+    }
+  },
+  {
+    "id": "12001-Vista-Parke-Dr,-Apt-1104,-Austin,-TX-78726",
+    "formattedAddress": "12001 Vista Parke Dr, Apt 1104, Austin, TX 78726",
+    "addressLine1": "12001 Vista Parke Dr",
+    "addressLine2": "Apt 1104",
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.413703,
+    "longitude": -97.854209,
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1441,
+    "lotSize": 4343,
+    "yearBuilt": 2021,
+    "hoa": {
+      "fee": 242
+    },
+    "status": "Active",
+    "price": 365000,
+    "listingType": "Standard",
+    "listedDate": "2026-01-30T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-02-13T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:38:34.776Z",
+    "daysOnMarket": 212,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "5394528",
+    "listingAgent": {
+      "name": "Gene Arant",
+      "phone": "5128091999",
+      "email": "gene@genearant.com",
+      "website": "http://www.austintexasrealestate.com/"
+    },
+    "listingOffice": {
+      "name": "Keller Williams - Lake Travis",
+      "phone": "5122639090",
+      "email": "mecook@kw.com",
+      "website": "www.kwlaketravis.com"
+    },
+    "history": {
+      "2025-02-12": {
+        "event": "Sale Listing",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-12T00:00:00.000Z",
+        "removedDate": "2025-04-17T00:00:00.000Z",
+        "daysOnMarket": 64
+      },
+      "2026-01-30": {
+        "event": "Sale Listing",
+        "price": 365000,
+        "listingType": "Standard",
+        "listedDate": "2026-01-30T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 212
+      }
+    }
+  },
+  {
+    "id": "10912-Centennial-Trl,-Austin,-TX-78726",
+    "formattedAddress": "10912 Centennial Trl, Austin, TX 78726",
+    "addressLine1": "10912 Centennial Trl",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.44559,
+    "longitude": -97.819254,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "squareFootage": 3911,
+    "lotSize": 35153,
+    "yearBuilt": 1999,
+    "hoa": {
+      "fee": 50
+    },
+    "status": "Active",
+    "price": 2500000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-14T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-07-08T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:32:58.805Z",
+    "daysOnMarket": 138,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "4970910",
+    "listingAgent": {
+      "name": "Monica Jones",
+      "phone": "5124260972",
+      "email": "monica.jones@compass.com",
+      "website": "https://monicajonesrealtor.com"
+    },
+    "listingOffice": {
+      "name": "Compass RE Texas LLC - Austin",
+      "phone": "5125753644",
+      "email": "txbroker@compass.com",
+      "website": "http://www.compass.com"
+    },
+    "history": {
+      "2025-07-07": {
+        "event": "Sale Listing",
+        "price": 2500000,
+        "listingType": "Standard",
+        "listedDate": "2025-07-07T00:00:00.000Z",
+        "removedDate": "2025-09-06T00:00:00.000Z",
+        "daysOnMarket": 61
+      },
+      "2026-04-14": {
+        "event": "Sale Listing",
+        "price": 2500000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-14T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 138
+      }
+    }
+  },
+  {
+    "id": "12506-Painted-Bunting-Dr,-Austin,-TX-78726",
+    "formattedAddress": "12506 Painted Bunting Dr, Austin, TX 78726",
+    "addressLine1": "12506 Painted Bunting Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.452308,
+    "longitude": -97.840014,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFootage": 2275,
+    "lotSize": 174196,
+    "yearBuilt": 1964,
+    "status": "Active",
+    "price": 1100000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-16T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-09-13T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:32:01.644Z",
+    "daysOnMarket": 136,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "5464827",
+    "listingAgent": {
+      "name": "Andy Allen",
+      "phone": "5127850496",
+      "email": "cecilia@andyallenteam.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Realty",
+      "phone": "5123463550",
+      "email": "mecook@kw.com"
+    },
+    "history": {
+      "2025-09-12": {
+        "event": "Sale Listing",
+        "price": 1199000,
+        "listingType": "Standard",
+        "listedDate": "2025-09-12T00:00:00.000Z",
+        "removedDate": "2025-11-20T00:00:00.000Z",
+        "daysOnMarket": 69
+      },
+      "2026-04-16": {
+        "event": "Sale Listing",
+        "price": 1100000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-16T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 136
+      }
+    }
+  },
+  {
+    "id": "9900-Bayshore-Bnd,-Unit-65,-Austin,-TX-78726",
+    "formattedAddress": "9900 Bayshore Bnd, Unit 65, Austin, TX 78726",
+    "addressLine1": "9900 Bayshore Bnd",
+    "addressLine2": "Unit 65",
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.437504,
+    "longitude": -97.840835,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "squareFootage": 2545,
+    "lotSize": 15006,
+    "yearBuilt": 2020,
+    "hoa": {
+      "fee": 86
+    },
+    "status": "Active",
+    "price": 720000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-23T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-24T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:31:12.675Z",
+    "daysOnMarket": 129,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "1799158",
+    "listingAgent": {
+      "name": "Gabriela Pereira Leite",
+      "phone": "2146218713"
+    },
+    "listingOffice": {
+      "name": "Compass RE Texas",
+      "phone": "5122411300",
+      "email": "realtor@realtyaustin.com",
+      "website": "http://realtyaustin.com"
+    },
+    "history": {
+      "2026-04-23": {
+        "event": "Sale Listing",
+        "price": 720000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 129
+      }
+    }
+  },
+  {
+    "id": "10917-Hidden-Caves-Way,-Unit-31,-Austin,-TX-78726",
+    "formattedAddress": "10917 Hidden Caves Way, Unit 31, Austin, TX 78726",
+    "addressLine1": "10917 Hidden Caves Way",
+    "addressLine2": "Unit 31",
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.400242,
+    "longitude": -97.846107,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 2515,
+    "lotSize": 8364,
+    "yearBuilt": 2014,
+    "hoa": {
+      "fee": 159
+    },
+    "status": "Active",
+    "price": 639500,
+    "listingType": "Standard",
+    "listedDate": "2026-04-25T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-26T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:31:09.325Z",
+    "daysOnMarket": 127,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "6853050",
+    "listingAgent": {
+      "name": "Allen Auth",
+      "phone": "5122704765",
+      "email": "aauth@theeraexperts.com",
+      "website": "http://www.austinrealestateexperts.com/team/allen-auth"
+    },
+    "listingOffice": {
+      "name": "ERA Experts",
+      "phone": "5122704765",
+      "email": "matt@austinrealestateexperts.com"
+    },
+    "history": {
+      "2026-04-25": {
+        "event": "Sale Listing",
+        "price": 639500,
+        "listingType": "Standard",
+        "listedDate": "2026-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 127
+      }
+    }
+  },
+  {
+    "id": "11904-Viscaya-Way,-Austin,-TX-78726",
+    "formattedAddress": "11904 Viscaya Way, Austin, TX 78726",
+    "addressLine1": "11904 Viscaya Way",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.433066,
+    "longitude": -97.843133,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 3154,
+    "lotSize": 15006,
+    "yearBuilt": 2017,
+    "hoa": {
+      "fee": 110
+    },
+    "status": "Active",
+    "price": 725000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-28T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-29T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:31:09.199Z",
+    "daysOnMarket": 124,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "4550783",
+    "listingAgent": {
+      "name": "Jonathan Minerick",
+      "phone": "8884002513",
+      "email": "info@homecoin.com"
+    },
+    "listingOffice": {
+      "name": "HomeCoin.com",
+      "phone": "8884002513",
+      "email": "info@homecoin.com",
+      "website": "http://www.homecoin.com"
+    },
+    "history": {
+      "2026-04-28": {
+        "event": "Sale Listing",
+        "price": 725000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-28T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 124
+      }
+    }
+  },
+  {
+    "id": "11005-Andenwood-Dr,-Austin,-TX-78726",
+    "formattedAddress": "11005 Andenwood Dr, Austin, TX 78726",
+    "addressLine1": "11005 Andenwood Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.440061,
+    "longitude": -97.822422,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2339,
+    "lotSize": 7436,
+    "yearBuilt": 1991,
+    "hoa": {
+      "fee": 58
+    },
+    "status": "Active",
+    "price": 595000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-02T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2022-12-09T08:34:02.578Z",
+    "lastSeenDate": "2026-08-29T12:29:28.001Z",
+    "daysOnMarket": 120,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "7048389",
+    "listingAgent": {
+      "name": "Gay Puckett",
+      "phone": "5129171542",
+      "email": "gay@gaypuckett.com",
+      "website": "http://www.gaypuckett.com"
+    },
+    "listingOffice": {
+      "name": "JBGoodwin REALTORS\u00ae, Northwest Austin",
+      "phone": "5125027804",
+      "website": "https://www.jbgoodwin.com/"
+    },
+    "history": {
+      "2026-05-02": {
+        "event": "Sale Listing",
+        "price": 595000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-02T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "10740-Bramblecrest-Dr,-Austin,-TX-78726",
+    "formattedAddress": "10740 Bramblecrest Dr, Austin, TX 78726",
+    "addressLine1": "10740 Bramblecrest Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.435264,
+    "longitude": -97.815525,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "squareFootage": 4074,
+    "lotSize": 10886,
+    "yearBuilt": 2000,
+    "hoa": {
+      "fee": 58
+    },
+    "status": "Active",
+    "price": 1051000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-01T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-05-27T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:29:27.981Z",
+    "daysOnMarket": 121,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "5911953",
+    "listingAgent": {
+      "name": "Sameer Desai",
+      "phone": "5126533321",
+      "email": "sam@desairealestate.com"
+    },
+    "listingOffice": {
+      "name": "Desai Real Estate, LLC",
+      "phone": "5124666308",
+      "email": "neil@desairealestate.com"
+    },
+    "history": {
+      "2026-05-01": {
+        "event": "Sale Listing",
+        "price": 1051000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-01T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 121
+      }
+    }
+  },
+  {
+    "id": "9500-Corbe-Dr,-Austin,-TX-78726",
+    "formattedAddress": "9500 Corbe Dr, Austin, TX 78726",
+    "addressLine1": "9500 Corbe Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.43103,
+    "longitude": -97.832211,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 3649,
+    "lotSize": 12345,
+    "yearBuilt": 2000,
+    "hoa": {
+      "fee": 58
+    },
+    "status": "Active",
+    "price": 959000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-08T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-05-09T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:28:53.632Z",
+    "daysOnMarket": 114,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "3465648",
+    "listingAgent": {
+      "name": "David Money",
+      "phone": "5124262536",
+      "email": "davidmoneysellshomes@gmail.com"
+    },
+    "listingOffice": {
+      "name": "All City Real Estate",
+      "phone": "5127753846",
+      "email": "kevin@kevinscanlan.com",
+      "website": "www.allcityaustin.com"
+    },
+    "history": {
+      "2026-05-08": {
+        "event": "Sale Listing",
+        "price": 959000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 114
+      }
+    }
+  },
+  {
+    "id": "12204-Waterton-Parke-Cir,-Austin,-TX-78726",
+    "formattedAddress": "12204 Waterton Parke Cir, Austin, TX 78726",
+    "addressLine1": "12204 Waterton Parke Cir",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.421758,
+    "longitude": -97.856769,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2549,
+    "lotSize": 11391,
+    "yearBuilt": 1999,
+    "hoa": {
+      "fee": 47
+    },
+    "status": "Active",
+    "price": 629000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-13T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-05-14T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:27:36.535Z",
+    "daysOnMarket": 109,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "5002644",
+    "listingAgent": {
+      "name": "Tiffany Beaufreton",
+      "phone": "9195791726",
+      "email": "tbeaufreton.fathomrealty@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Fathom Realty",
+      "phone": "8009337511",
+      "email": "brokertexas@fathomrealty.com",
+      "website": "http://www.fathomrealty.com"
+    },
+    "history": {
+      "2026-05-13": {
+        "event": "Sale Listing",
+        "price": 629000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-13T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 109
+      }
+    }
+  },
+  {
+    "id": "10711-Twisted-Elm-Dr,-Austin,-TX-78726",
+    "formattedAddress": "10711 Twisted Elm Dr, Austin, TX 78726",
+    "addressLine1": "10711 Twisted Elm Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.399578,
+    "longitude": -97.84324,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2623,
+    "lotSize": 8364,
+    "yearBuilt": 2016,
+    "hoa": {
+      "fee": 159
+    },
+    "status": "Active",
+    "price": 659000,
+    "listingType": "Standard",
+    "listedDate": "2026-06-04T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-06-05T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:17:44.441Z",
+    "daysOnMarket": 87,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "6932583",
+    "listingAgent": {
+      "name": "Daryl Fojtik",
+      "phone": "5124233813",
+      "email": "daryl@advantageaustin.com",
+      "website": "http://www.advantageaustin.com"
+    },
+    "listingOffice": {
+      "name": "Advantage Austin Properties",
+      "phone": "5124233813",
+      "email": "dfojtik@advantageaustin.com",
+      "website": "http://www.advantageaustin.com"
+    },
+    "history": {
+      "2026-06-04": {
+        "event": "Sale Listing",
+        "price": 659000,
+        "listingType": "Standard",
+        "listedDate": "2026-06-04T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 87
+      }
+    }
+  },
+  {
+    "id": "12001-Vista-Parke-Dr,-Apt-202,-Austin,-TX-78726",
+    "formattedAddress": "12001 Vista Parke Dr, Apt 202, Austin, TX 78726",
+    "addressLine1": "12001 Vista Parke Dr",
+    "addressLine2": "Apt 202",
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.413703,
+    "longitude": -97.854209,
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1365,
+    "lotSize": 4343,
+    "yearBuilt": 2021,
+    "hoa": {
+      "fee": 200
+    },
+    "status": "Active",
+    "price": 369900,
+    "listingType": "Standard",
+    "listedDate": "2026-06-08T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-06-09T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:10:30.653Z",
+    "daysOnMarket": 83,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "5304995",
+    "listingAgent": {
+      "name": "Laura Mendez Exum",
+      "phone": "5123437500",
+      "email": "laura.exum@cbunited.com",
+      "website": "http://lauramendezexum.cbintouch.com/"
+    },
+    "listingOffice": {
+      "name": "Coldwell Banker Realty",
+      "phone": "5123437500",
+      "email": "lezley.charles@cbrealty.com",
+      "website": "https://www.coldwellbankerhomes.com//tx/austin/office/northwest-austin/oid_13370/"
+    },
+    "history": {
+      "2026-06-08": {
+        "event": "Sale Listing",
+        "price": 369900,
+        "listingType": "Standard",
+        "listedDate": "2026-06-08T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 83
+      }
+    }
+  },
+  {
+    "id": "10707-Beckwood-Dr,-Austin,-TX-78726",
+    "formattedAddress": "10707 Beckwood Dr, Austin, TX 78726",
+    "addressLine1": "10707 Beckwood Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.442903,
+    "longitude": -97.82465,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2484,
+    "lotSize": 11008,
+    "yearBuilt": 1988,
+    "hoa": {
+      "fee": 58
+    },
+    "status": "Active",
+    "price": 689999,
+    "listingType": "Standard",
+    "listedDate": "2026-06-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-08-09T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:04:55.897Z",
+    "daysOnMarket": 73,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "9756207",
+    "listingAgent": {
+      "name": "Michael Frost",
+      "phone": "5126693897",
+      "email": "mike@landyfrostgroup.com"
+    },
+    "listingOffice": {
+      "name": "Compass RE Texas LLC - Austin",
+      "phone": "5125753644",
+      "email": "txbroker@compass.com",
+      "website": "http://www.compass.com"
+    },
+    "history": {
+      "2025-08-08": {
+        "event": "Sale Listing",
+        "price": 700000,
+        "listingType": "Standard",
+        "listedDate": "2025-08-08T00:00:00.000Z",
+        "removedDate": "2025-11-19T00:00:00.000Z",
+        "daysOnMarket": 103
+      },
+      "2026-06-18": {
+        "event": "Sale Listing",
+        "price": 689999,
+        "listingType": "Standard",
+        "listedDate": "2026-06-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 73
+      }
+    }
+  },
+  {
+    "id": "12113-Terraza-Cir,-Austin,-TX-78726",
+    "formattedAddress": "12113 Terraza Cir, Austin, TX 78726",
+    "addressLine1": "12113 Terraza Cir",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.428445,
+    "longitude": -97.845395,
+    "propertyType": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "squareFootage": 2456,
+    "lotSize": 10454,
+    "yearBuilt": 2009,
+    "hoa": {
+      "fee": 425
+    },
+    "status": "Active",
+    "price": 390000,
+    "listingType": "Standard",
+    "listedDate": "2026-06-18T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-06-19T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:04:55.858Z",
+    "daysOnMarket": 73,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "7715013",
+    "listingAgent": {
+      "name": "Steven Koleno",
+      "phone": "8046565007",
+      "email": "realtor@beycome.com",
+      "website": "https://www.beycome.com"
+    },
+    "listingOffice": {
+      "name": "Beycome Brokerage Realty LLC",
+      "phone": "6305263500",
+      "email": "steve@beycome.com"
+    },
+    "history": {
+      "2026-06-18": {
+        "event": "Sale Listing",
+        "price": 390000,
+        "listingType": "Standard",
+        "listedDate": "2026-06-18T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 73
+      }
+    }
+  },
+  {
+    "id": "12421-Painted-Bunting-Dr,-Austin,-TX-78726",
+    "formattedAddress": "12421 Painted Bunting Dr, Austin, TX 78726",
+    "addressLine1": "12421 Painted Bunting Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.45038,
+    "longitude": -97.841419,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1634,
+    "lotSize": 107463,
+    "yearBuilt": 1992,
+    "status": "Active",
+    "price": 850000,
+    "listingType": "Standard",
+    "listedDate": "2026-06-19T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2022-04-29T14:49:07.888Z",
+    "lastSeenDate": "2026-08-29T12:04:55.858Z",
+    "daysOnMarket": 72,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "6079182",
+    "listingAgent": {
+      "name": "Elaine Lin Montgomery",
+      "phone": "5124206888",
+      "email": "elainelinmontgomery@gmail.com",
+      "website": "http://elainelinmontgomeryrealtor.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Realty",
+      "phone": "5123463550",
+      "email": "mecook@kw.com"
+    },
+    "history": {
+      "2026-06-19": {
+        "event": "Sale Listing",
+        "price": 850000,
+        "listingType": "Standard",
+        "listedDate": "2026-06-19T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 72
+      }
+    }
+  },
+  {
+    "id": "11110-Zimmerman-Ln,-Unit-25,-Austin,-TX-78726",
+    "formattedAddress": "11110 Zimmerman Ln, Unit 25, Austin, TX 78726",
+    "addressLine1": "11110 Zimmerman Ln",
+    "addressLine2": "Unit 25",
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.408934,
+    "longitude": -97.843373,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "squareFootage": 2796,
+    "lotSize": 8564,
+    "yearBuilt": 2016,
+    "hoa": {
+      "fee": 88
+    },
+    "status": "Active",
+    "price": 675000,
+    "listingType": "Standard",
+    "listedDate": "2026-06-23T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-01-25T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T12:02:47.144Z",
+    "daysOnMarket": 68,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "4270015",
+    "listingAgent": {
+      "name": "Andrew Senter",
+      "phone": "5126572094"
+    },
+    "listingOffice": {
+      "name": "MORELAND PROPERTIES",
+      "phone": "5124800848",
+      "email": "sales@moreland.com",
+      "website": "www.moreland.com"
+    },
+    "history": {
+      "2025-01-24": {
+        "event": "Sale Listing",
+        "price": 727740,
+        "listingType": "Standard",
+        "listedDate": "2025-01-24T00:00:00.000Z",
+        "removedDate": "2025-04-22T00:00:00.000Z",
+        "daysOnMarket": 88
+      },
+      "2026-06-23": {
+        "event": "Sale Listing",
+        "price": 675000,
+        "listingType": "Standard",
+        "listedDate": "2026-06-23T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 68
+      }
+    }
+  },
+  {
+    "id": "11108-Crossland-Dr,-Austin,-TX-78726",
+    "formattedAddress": "11108 Crossland Dr, Austin, TX 78726",
+    "addressLine1": "11108 Crossland Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.442628,
+    "longitude": -97.823096,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 2051,
+    "lotSize": 7636,
+    "yearBuilt": 1990,
+    "hoa": {
+      "fee": 58
+    },
+    "status": "Active",
+    "price": 589000,
+    "listingType": "Standard",
+    "listedDate": "2026-06-28T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-06-29T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T11:56:37.721Z",
+    "daysOnMarket": 63,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "3883553",
+    "listingAgent": {
+      "name": "Lee Easter",
+      "phone": "5124224022",
+      "email": "lee@leeeaster.com",
+      "website": "http://www.leeeaster.com"
+    },
+    "listingOffice": {
+      "name": "Lee Easter, Inc.",
+      "phone": "5122551111",
+      "email": "lee@leeeaster.com"
+    },
+    "history": {
+      "2026-06-28": {
+        "event": "Sale Listing",
+        "price": 589000,
+        "listingType": "Standard",
+        "listedDate": "2026-06-28T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 63
+      }
+    }
+  },
+  {
+    "id": "8109-Endeavor-Cir,-Austin,-TX-78726",
+    "formattedAddress": "8109 Endeavor Cir, Austin, TX 78726",
+    "addressLine1": "8109 Endeavor Cir",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.42473,
+    "longitude": -97.86137,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 2567,
+    "lotSize": 13273,
+    "yearBuilt": 2002,
+    "hoa": {
+      "fee": 33
+    },
+    "status": "Active",
+    "price": 549500,
+    "listingType": "Standard",
+    "listedDate": "2026-07-01T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-07-02T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T11:56:37.677Z",
+    "daysOnMarket": 60,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "3375343",
+    "listingAgent": {
+      "name": "Byron Davis",
+      "phone": "5125853764",
+      "email": "admin@utstudentcondos.com",
+      "website": "utstudentcondos.com"
+    },
+    "listingOffice": {
+      "name": "Location 3 Realty",
+      "phone": "5125853764",
+      "email": "byrondavis@location3realty.com",
+      "website": "utstudentcondos.com"
+    },
+    "history": {
+      "2026-07-01": {
+        "event": "Sale Listing",
+        "price": 549500,
+        "listingType": "Standard",
+        "listedDate": "2026-07-01T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 60
+      }
+    }
+  },
+  {
+    "id": "11625-Sweet-Basil-Ct,-Austin,-TX-78726",
+    "formattedAddress": "11625 Sweet Basil Ct, Austin, TX 78726",
+    "addressLine1": "11625 Sweet Basil Ct",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.441924,
+    "longitude": -97.831554,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "squareFootage": 1965,
+    "lotSize": 5754,
+    "yearBuilt": 1998,
+    "hoa": {
+      "fee": 276
+    },
+    "status": "Active",
+    "price": 575000,
+    "listingType": "Standard",
+    "listedDate": "2026-07-03T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-07-03T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T11:56:05.675Z",
+    "daysOnMarket": 58,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "3837352",
+    "listingAgent": {
+      "name": "Kinan Beck",
+      "phone": "5127627001",
+      "email": "kinan@kinanbeck.com",
+      "website": "http://kinanbeck.com"
+    },
+    "listingOffice": {
+      "name": "eXp Realty, LLC",
+      "phone": "8885197431",
+      "email": "linda.marcus@exprealty.com"
+    },
+    "history": {
+      "2026-07-03": {
+        "event": "Sale Listing",
+        "price": 575000,
+        "listingType": "Standard",
+        "listedDate": "2026-07-03T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 58
+      }
+    }
+  },
+  {
+    "id": "11004-Cut-Plains-Loop,-Austin,-TX-78726",
+    "formattedAddress": "11004 Cut Plains Loop, Austin, TX 78726",
+    "addressLine1": "11004 Cut Plains Loop",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.402571,
+    "longitude": -97.843606,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2870,
+    "lotSize": 8342,
+    "yearBuilt": 2015,
+    "hoa": {
+      "fee": 190
+    },
+    "status": "Active",
+    "price": 689000,
+    "listingType": "Standard",
+    "listedDate": "2026-07-03T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-07-04T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T11:56:05.646Z",
+    "daysOnMarket": 58,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "8067763",
+    "listingAgent": {
+      "name": "Andries Enslin",
+      "phone": "5122644917",
+      "email": "aj.enslin@orchard.com"
+    },
+    "listingOffice": {
+      "name": "Orchard  ",
+      "phone": "8448191373",
+      "email": "hello@orchardhomes.com",
+      "website": "http://www.orchardhomes.com"
+    },
+    "history": {
+      "2026-07-03": {
+        "event": "Sale Listing",
+        "price": 689000,
+        "listingType": "Standard",
+        "listedDate": "2026-07-03T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 58
+      }
+    }
+  },
+  {
+    "id": "9550-Savannah-Ridge-Dr,-Unit-41,-Austin,-TX-78726",
+    "formattedAddress": "9550 Savannah Ridge Dr, Unit 41, Austin, TX 78726",
+    "addressLine1": "9550 Savannah Ridge Dr",
+    "addressLine2": "Unit 41",
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.432311,
+    "longitude": -97.833716,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 2509,
+    "lotSize": 10293,
+    "yearBuilt": 2013,
+    "hoa": {
+      "fee": 185
+    },
+    "status": "Active",
+    "price": 615000,
+    "listingType": "Standard",
+    "listedDate": "2026-07-04T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-07-05T00:00:00.000Z",
+    "lastSeenDate": "2026-08-29T11:56:05.642Z",
+    "daysOnMarket": 57,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "4725157",
+    "listingAgent": {
+      "name": "Cody Hobza",
+      "phone": "5128316577",
+      "email": "cody.hobza@kupersir.com",
+      "website": "http://codyhobza.com/"
+    },
+    "listingOffice": {
+      "name": "Kuper Sotheby's International Realty",
+      "phone": "5128316577",
+      "email": "info@kupersir.com",
+      "website": "www.sothebysrealty.com/kuper/eng"
+    },
+    "history": {
+      "2026-07-04": {
+        "event": "Sale Listing",
+        "price": 615000,
+        "listingType": "Standard",
+        "listedDate": "2026-07-04T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 57
+      }
+    }
+  }
+]

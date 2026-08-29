@@ -1,0 +1,244 @@
+[
+  {
+    "id": "13908-Skyline-Dr,-Austin,-TX-78732",
+    "formattedAddress": "13908 Skyline Dr, Austin, TX 78732",
+    "addressLine1": "13908 Skyline Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78732",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.417394,
+    "longitude": -97.889392,
+    "propertyType": "Land",
+    "lotSize": 21013,
+    "status": "Active",
+    "price": 410000,
+    "listingType": "Standard",
+    "listedDate": "2025-05-21T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2021-10-09T12:57:53.058Z",
+    "lastSeenDate": "2026-08-25T12:36:13.137Z",
+    "daysOnMarket": 462,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "8426964",
+    "listingAgent": {
+      "name": "Jona Ten Eyck",
+      "phone": "5129173767",
+      "email": "jona@jonarealtor.com",
+      "website": "http://www.jonarealtor.com"
+    },
+    "listingOffice": {
+      "name": "Pure Realty",
+      "phone": "5123370200",
+      "email": "tammywithremax@yahoo.com"
+    },
+    "history": {
+      "2024-02-17": {
+        "event": "Sale Listing",
+        "price": 450000,
+        "listingType": "Standard",
+        "listedDate": "2024-02-17T00:00:00.000Z",
+        "removedDate": "2024-10-12T00:00:00.000Z",
+        "daysOnMarket": 238
+      },
+      "2025-05-21": {
+        "event": "Sale Listing",
+        "price": 410000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-21T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 462
+      }
+    }
+  },
+  {
+    "id": "13612-Bullick-Hollow-Rd,-Austin,-TX-78726",
+    "formattedAddress": "13612 Bullick Hollow Rd, Austin, TX 78726",
+    "addressLine1": "13612 Bullick Hollow Rd",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78726",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.435778,
+    "longitude": -97.872424,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFootage": 2517,
+    "lotSize": 7971,
+    "yearBuilt": 1999,
+    "status": "Active",
+    "price": 865000,
+    "listingType": "Standard",
+    "listedDate": "2025-05-31T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-06-01T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:36:13.136Z",
+    "daysOnMarket": 452,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "5902844",
+    "listingAgent": {
+      "name": "Kelli Scherer",
+      "phone": "5126561926",
+      "email": "kellischerer@gmail.com",
+      "website": "https://www.bhhs.com/texas-realty-tx301/austin/kelli-scherer/cid-3018307"
+    },
+    "listingOffice": {
+      "name": "Berkshire Hathaway HomeServices Texas Realty",
+      "phone": "5124836000",
+      "email": "chris.mccambridge@bhhstxrealty.com",
+      "website": "https://www.bhhstxrealty.com"
+    },
+    "history": {
+      "2025-05-31": {
+        "event": "Sale Listing",
+        "price": 865000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-31T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 452
+      }
+    }
+  },
+  {
+    "id": "1193-Ridge-Dr,-Austin,-TX-78721",
+    "formattedAddress": "1193 Ridge Dr, Austin, TX 78721",
+    "addressLine1": "1193 Ridge Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78721",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.276389,
+    "longitude": -97.698027,
+    "propertyType": "Land",
+    "lotSize": 3576,
+    "status": "Active",
+    "price": 225000,
+    "listingType": "Standard",
+    "listedDate": "2025-05-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-05-21T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:36:13.135Z",
+    "daysOnMarket": 463,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "3614633",
+    "listingAgent": {
+      "name": "Garrett Gill",
+      "phone": "5124664501",
+      "email": "garrett.james.gill@gmail.com"
+    },
+    "listingOffice": {
+      "name": "American Realty Advisors, Inc.",
+      "phone": "5127484713"
+    },
+    "history": {
+      "2025-05-20": {
+        "event": "Sale Listing",
+        "price": 225000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 463
+      }
+    }
+  },
+  {
+    "id": "1197-Ridge-Dr,-Austin,-TX-78721",
+    "formattedAddress": "1197 Ridge Dr, Austin, TX 78721",
+    "addressLine1": "1197 Ridge Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78721",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.276607,
+    "longitude": -97.698145,
+    "propertyType": "Land",
+    "lotSize": 3576,
+    "status": "Active",
+    "price": 225000,
+    "listingType": "Standard",
+    "listedDate": "2025-05-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-05-21T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:36:13.134Z",
+    "daysOnMarket": 463,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "8685815",
+    "listingAgent": {
+      "name": "Garrett Gill",
+      "phone": "5124664501",
+      "email": "garrett.james.gill@gmail.com"
+    },
+    "listingOffice": {
+      "name": "American Realty Advisors, Inc.",
+      "phone": "5127484713"
+    },
+    "history": {
+      "2025-05-20": {
+        "event": "Sale Listing",
+        "price": 225000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 463
+      }
+    }
+  },
+  {
+    "id": "1189-Ridge-Dr,-Austin,-TX-78721",
+    "formattedAddress": "1189 Ridge Dr, Austin, TX 78721",
+    "addressLine1": "1189 Ridge Dr",
+    "addressLine2": null,
+    "city": "Austin",
+    "state": "TX",
+    "stateFips": "48",
+    "zipCode": "78721",
+    "county": "Travis",
+    "countyFips": "453",
+    "latitude": 30.27617,
+    "longitude": -97.697909,
+    "propertyType": "Land",
+    "lotSize": 3585,
+    "status": "Active",
+    "price": 225000,
+    "listingType": "Standard",
+    "listedDate": "2025-05-20T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-05-21T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:36:13.133Z",
+    "daysOnMarket": 463,
+    "mlsName": "UnlockMLS",
+    "mlsNumber": "1922970",
+    "listingAgent": {
+      "name": "Garrett Gill",
+      "phone": "5124664501",
+      "email": "garrett.james.gill@gmail.com"
+    },
+    "listingOffice": {
+      "name": "American Realty Advisors, Inc.",
+      "phone": "5127484713"
+    },
+    "history": {
+      "2025-05-20": {
+        "event": "Sale Listing",
+        "price": 225000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-20T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 463
+      }
+    }
+  }
+]

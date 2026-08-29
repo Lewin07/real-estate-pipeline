@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "2453-Ivydale-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2453 Ivydale Dr SW, Atlanta, GA 30311",
+    "addressLine1": "2453 Ivydale Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.699405,
+    "longitude": -84.468903,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "squareFootage": 1893,
+    "lotSize": 35841,
+    "yearBuilt": 1955,
+    "status": "Active",
+    "price": 239900,
+    "listingType": "Foreclosure",
+    "listedDate": "2026-04-07T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2022-06-17T12:21:30.593Z",
+    "lastSeenDate": "2026-08-25T12:34:22.583Z",
+    "daysOnMarket": 141,
+    "mlsName": "FMLS",
+    "mlsNumber": "7742873",
+    "listingAgent": {
+      "name": "Teshuwah Price",
+      "phone": "4049808744",
+      "email": "teshuwahprice@gmail.com",
+      "website": "https://homesmart.com/real-estate-agent/georgia/roswell/68494-teshuwah-price/welcome"
+    },
+    "listingOffice": {
+      "name": "HomeSmart Realty Partners",
+      "phone": "4044191004",
+      "email": "rmusto@buckheadhomerealty.com",
+      "website": "www.buckheadhomerealty.com"
+    },
+    "history": {
+      "2026-04-07": {
+        "event": "Sale Listing",
+        "price": 239900,
+        "listingType": "Foreclosure",
+        "listedDate": "2026-04-07T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 141
+      }
+    }
+  },
+  {
+    "id": "1788-Campbellton-Rd-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1788 Campbellton Rd SW, Atlanta, GA 30311",
+    "addressLine1": "1788 Campbellton Rd SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.710773,
+    "longitude": -84.446235,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1072,
+    "lotSize": 9845,
+    "yearBuilt": 1945,
+    "status": "Active",
+    "price": 255000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-06T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-07-03T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:34:22.576Z",
+    "daysOnMarket": 142,
+    "mlsName": "FMLS",
+    "mlsNumber": "7747882",
+    "listingAgent": {
+      "name": "Justin Landis",
+      "phone": "4048601816",
+      "email": "info@justinlandisgroup.com",
+      "website": "www.justinlandisgroup.com"
+    },
+    "listingOffice": {
+      "name": "Bolst, Inc.",
+      "phone": "4044822293",
+      "email": "cathryn.childs@bolstrealestate.com",
+      "website": "www.bolst.homes"
+    },
+    "history": {
+      "2025-07-02": {
+        "event": "Sale Listing",
+        "price": 255000,
+        "listingType": "Standard",
+        "listedDate": "2025-07-02T00:00:00.000Z",
+        "removedDate": "2025-10-26T00:00:00.000Z",
+        "daysOnMarket": 116
+      },
+      "2026-04-06": {
+        "event": "Sale Listing",
+        "price": 255000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-06T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 142
+      }
+    }
+  },
+  {
+    "id": "2032-Rector-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2032 Rector Dr SW, Atlanta, GA 30311",
+    "addressLine1": "2032 Rector Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.731497,
+    "longitude": -84.455262,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1200,
+    "lotSize": 18295,
+    "yearBuilt": 1956,
+    "status": "Active",
+    "price": 265000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-06T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-04T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:34:22.573Z",
+    "daysOnMarket": 142,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10726286",
+    "listingAgent": {
+      "name": "Ali Ghazi",
+      "phone": "4042854316",
+      "email": "lmghazi@yahoo.com",
+      "website": "www.remaxpremierga.com"
+    },
+    "listingOffice": {
+      "name": "Real Broker LLC",
+      "phone": "7135613650",
+      "email": "membership@therealbrokerage.com",
+      "website": "http://www.joinreal.com"
+    },
+    "history": {
+      "2026-04-06": {
+        "event": "Sale Listing",
+        "price": 265000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-06T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 142
+      }
+    }
+  },
+  {
+    "id": "2808-Benjamin-E-Mays-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2808 Benjamin E Mays Dr SW, Atlanta, GA 30311",
+    "addressLine1": "2808 Benjamin E Mays Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.728596,
+    "longitude": -84.480699,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1570,
+    "lotSize": 29041,
+    "yearBuilt": 1957,
+    "status": "Active",
+    "price": 305000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-08T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-09T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:34:22.441Z",
+    "daysOnMarket": 140,
+    "mlsName": "FMLS",
+    "mlsNumber": "7749402",
+    "listingOffice": {
+      "name": "HomeSmart Realty Partners",
+      "phone": "4044191004",
+      "email": "rmusto@buckheadhomerealty.com",
+      "website": "www.buckheadhomerealty.com"
+    },
+    "history": {
+      "2026-04-08": {
+        "event": "Sale Listing",
+        "price": 305000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-08T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 140
+      }
+    }
+  },
+  {
+    "id": "2221-Highview-Rd-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2221 Highview Rd SW, Atlanta, GA 30311",
+    "addressLine1": "2221 Highview Rd SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.728033,
+    "longitude": -84.461039,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 3131,
+    "lotSize": 29534,
+    "yearBuilt": 1940,
+    "status": "Active",
+    "price": 724900,
+    "listingType": "Standard",
+    "listedDate": "2026-04-09T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-10-11T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:34:22.437Z",
+    "daysOnMarket": 139,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10728196",
+    "listingAgent": {
+      "name": "Jeffrey Hicks",
+      "phone": "4042344994",
+      "email": "jhicksteam@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Apollo Associates Inc.",
+      "phone": "4047537373",
+      "email": "apollosales1077@gmail.com",
+      "website": "www.apolloassociatesrealty.com"
+    },
+    "history": {
+      "2025-10-10": {
+        "event": "Sale Listing",
+        "price": 750000,
+        "listingType": "Standard",
+        "listedDate": "2025-10-10T00:00:00.000Z",
+        "removedDate": "2026-01-03T00:00:00.000Z",
+        "daysOnMarket": 85
+      },
+      "2026-04-09": {
+        "event": "Sale Listing",
+        "price": 724900,
+        "listingType": "Standard",
+        "listedDate": "2026-04-09T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 139
+      }
+    }
+  },
+  {
+    "id": "855-Flamingo-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "855 Flamingo Dr SW, Atlanta, GA 30311",
+    "addressLine1": "855 Flamingo Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.732535,
+    "longitude": -84.468617,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "squareFootage": 3600,
+    "lotSize": 49049,
+    "yearBuilt": 1976,
+    "status": "Active",
+    "price": 774900,
+    "listingType": "Standard",
+    "listedDate": "2026-04-12T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2021-10-29T15:15:48.527Z",
+    "lastSeenDate": "2026-08-25T12:34:20.286Z",
+    "daysOnMarket": 136,
+    "mlsName": "FMLS",
+    "mlsNumber": "7749176",
+    "listingAgent": {
+      "name": "Derrick Duckworth",
+      "phone": "7703541565",
+      "email": "derrick@thebeltlineteam.com"
+    },
+    "listingOffice": {
+      "name": "Call It Closed International Realty",
+      "phone": "4073383339",
+      "email": "lloydieginyard@callitclosed.com",
+      "website": "www.callitclosed.com"
+    },
+    "history": {
+      "2026-04-12": {
+        "event": "Sale Listing",
+        "price": 774900,
+        "listingType": "Standard",
+        "listedDate": "2026-04-12T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 136
+      }
+    }
+  },
+  {
+    "id": "1489-Avon-Ave-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1489 Avon Ave SW, Atlanta, GA 30311",
+    "addressLine1": "1489 Avon Ave SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.722736,
+    "longitude": -84.436742,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "squareFootage": 2904,
+    "lotSize": 10672,
+    "yearBuilt": 1950,
+    "status": "Active",
+    "price": 305000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-14T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-15T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:34:20.229Z",
+    "daysOnMarket": 134,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10731935",
+    "listingAgent": {
+      "name": "Jada Holcomb",
+      "phone": "6788616910",
+      "email": "jadasellsga@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Maximum One Greater Atlanta Realtors",
+      "phone": "7709198825",
+      "email": "maximum-one-realty-greater-atlanta@inbound.opcity.com",
+      "website": "www.maximumonerealty.com"
+    },
+    "history": {
+      "2026-04-14": {
+        "event": "Sale Listing",
+        "price": 305000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-14T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 134
+      }
+    }
+  },
+  {
+    "id": "1949-Venetian-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1949 Venetian Dr SW, Atlanta, GA 30311",
+    "addressLine1": "1949 Venetian Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.715214,
+    "longitude": -84.451667,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFootage": 3000,
+    "lotSize": 13591,
+    "yearBuilt": 1950,
+    "status": "Active",
+    "price": 220000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-17T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-17T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:33:15.887Z",
+    "daysOnMarket": 131,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10734866",
+    "listingAgent": {
+      "name": "Emily Berryman",
+      "phone": "8552612233",
+      "email": "emily@berrymanhomes.com"
+    },
+    "listingOffice": {
+      "name": "Zach Taylor Real Estate",
+      "phone": "8552612233",
+      "email": "zachgriest@gmail.com"
+    },
+    "history": {
+      "2026-04-17": {
+        "event": "Sale Listing",
+        "price": 220000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-17T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 131
+      }
+    }
+  },
+  {
+    "id": "2299-Boulevard,-Granada-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2299 Boulevard, Granada SW, Atlanta, GA 30311",
+    "addressLine1": "2299 Boulevard",
+    "addressLine2": "Granada SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.720729,
+    "longitude": -84.463442,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 2216,
+    "lotSize": 10001,
+    "yearBuilt": 1990,
+    "status": "Active",
+    "price": 439000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-23T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2020-12-03T23:37:22.338Z",
+    "lastSeenDate": "2026-08-25T12:32:23.773Z",
+    "daysOnMarket": 125,
+    "mlsName": "FMLS",
+    "mlsNumber": "7756278",
+    "listingAgent": {
+      "name": "Anthony L Brundage",
+      "phone": "7704031841",
+      "email": "tonybrundage@comcast.net"
+    },
+    "listingOffice": {
+      "name": "HomeSmart",
+      "phone": "4048764901",
+      "email": "tvonbrinegar@phpatlanta.com",
+      "website": "www.palmerhouseproperties.com"
+    },
+    "history": {
+      "2026-04-23": {
+        "event": "Sale Listing",
+        "price": 439000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 125
+      }
+    }
+  },
+  {
+    "id": "2185-Chinaberry-Way-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2185 Chinaberry Way SW, Atlanta, GA 30311",
+    "addressLine1": "2185 Chinaberry Way SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.695954,
+    "longitude": -84.479256,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1092,
+    "lotSize": 13547,
+    "yearBuilt": 1961,
+    "status": "Active",
+    "price": 207000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-23T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-24T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:32:23.735Z",
+    "daysOnMarket": 125,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10739712",
+    "listingAgent": {
+      "name": "Christopher Hurd",
+      "phone": "8332852583",
+      "email": "churd@bluemountainrealty.com"
+    },
+    "listingOffice": {
+      "name": "Blue Mountain Realty GA LLC",
+      "phone": "8332852583",
+      "email": "churd@bluemountainrealty.com"
+    },
+    "history": {
+      "2026-04-23": {
+        "event": "Sale Listing",
+        "price": 207000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 125
+      }
+    }
+  },
+  {
+    "id": "3114-Lovell-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "3114 Lovell Dr SW, Atlanta, GA 30311",
+    "addressLine1": "3114 Lovell Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.703898,
+    "longitude": -84.491608,
+    "propertyType": "Land",
+    "lotSize": 31799,
+    "status": "Active",
+    "price": 59654,
+    "listingType": "Standard",
+    "listedDate": "2026-04-25T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-25T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:32:20.569Z",
+    "daysOnMarket": 123,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10741066",
+    "listingAgent": {
+      "name": "Alison Walker-grant",
+      "phone": "6785917409",
+      "email": "alisonwalkergrant@yahoo.com",
+      "website": "http://www.alisonwalkergrant.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Realty Atlanta Partners - Stockbridge",
+      "phone": "7706920888",
+      "email": "frontdesk324@kw.com",
+      "website": "http://kwstockbridge.yourkwoffice.com/"
+    },
+    "history": {
+      "2026-04-25": {
+        "event": "Sale Listing",
+        "price": 59654,
+        "listingType": "Standard",
+        "listedDate": "2026-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 123
+      }
+    }
+  },
+  {
+    "id": "2748-Bonnybrook-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2748 Bonnybrook Dr SW, Atlanta, GA 30311",
+    "addressLine1": "2748 Bonnybrook Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.694441,
+    "longitude": -84.478324,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "squareFootage": 1118,
+    "lotSize": 12240,
+    "yearBuilt": 1959,
+    "status": "Active",
+    "price": 183300,
+    "listingType": "Standard",
+    "listedDate": "2026-04-23T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-04-24T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:32:20.561Z",
+    "daysOnMarket": 125,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10739691",
+    "listingAgent": {
+      "name": "Christopher Hurd",
+      "phone": "8332852583",
+      "email": "churd@bluemountainrealty.com"
+    },
+    "listingOffice": {
+      "name": "Blue Mountain Realty GA LLC",
+      "phone": "8332852583",
+      "email": "churd@bluemountainrealty.com"
+    },
+    "history": {
+      "2026-04-23": {
+        "event": "Sale Listing",
+        "price": 183300,
+        "listingType": "Standard",
+        "listedDate": "2026-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 125
+      }
+    }
+  },
+  {
+    "id": "Wells-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "Wells Dr SW, Atlanta, GA 30311",
+    "addressLine1": "Wells Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.702595,
+    "longitude": -84.468952,
+    "propertyType": "Land",
+    "lotSize": 13242,
+    "status": "Active",
+    "price": 35000,
+    "listingType": "Standard",
+    "listedDate": "2026-04-28T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2023-04-25T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:32:20.519Z",
+    "daysOnMarket": 120,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10742135",
+    "listingAgent": {
+      "name": "Rochelle Jackson",
+      "phone": "4705079810",
+      "email": "sonjack40@yahoo.com",
+      "website": "https://rochellejackson.georgiamls.com/"
+    },
+    "listingOffice": {
+      "name": "HomeSmart",
+      "phone": "4048764901",
+      "email": "kpalmer@phpatlanta.com",
+      "website": "https://www.palmerhouseproperties.com"
+    },
+    "history": {
+      "2026-04-28": {
+        "event": "Sale Listing",
+        "price": 35000,
+        "listingType": "Standard",
+        "listedDate": "2026-04-28T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 120
+      }
+    }
+  },
+  {
+    "id": "1275-Westridge-Rd-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1275 Westridge Rd SW, Atlanta, GA 30311",
+    "addressLine1": "1275 Westridge Rd SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.720466,
+    "longitude": -84.447271,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFootage": 2576,
+    "lotSize": 12023,
+    "yearBuilt": 1941,
+    "status": "Active",
+    "price": 399900,
+    "listingType": "Standard",
+    "listedDate": "2026-04-29T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-10-16T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:31:21.441Z",
+    "daysOnMarket": 119,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10753398",
+    "listingAgent": {
+      "name": "Lisa David",
+      "phone": "6783596500",
+      "email": "lisadavid@newgenerationllc.com",
+      "website": "http://www.newgenerationrealtyllc.com"
+    },
+    "listingOffice": {
+      "name": "New Generation Realty Llc",
+      "phone": "7708853285",
+      "email": "sales@newgenerationllc.com"
+    },
+    "history": {
+      "2026-04-29": {
+        "event": "Sale Listing",
+        "price": 399900,
+        "listingType": "Standard",
+        "listedDate": "2026-04-29T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 119
+      }
+    }
+  },
+  {
+    "id": "1815-Windsor-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1815 Windsor Dr SW, Atlanta, GA 30311",
+    "addressLine1": "1815 Windsor Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.705749,
+    "longitude": -84.476032,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1400,
+    "lotSize": 10498,
+    "yearBuilt": 1955,
+    "status": "Active",
+    "price": 279000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-01T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-01-04T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:31:21.369Z",
+    "daysOnMarket": 117,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10755566",
+    "listingAgent": {
+      "name": "Candis Rosier",
+      "phone": "6788089233",
+      "email": "candisr@kw.com"
+    },
+    "listingOffice": {
+      "name": "Real Broker LLC",
+      "phone": "7135613650",
+      "email": "membership@therealbrokerage.com",
+      "website": "http://www.joinreal.com"
+    },
+    "history": {
+      "2025-01-03": {
+        "event": "Sale Listing",
+        "price": 199000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-03T00:00:00.000Z",
+        "removedDate": "2025-03-12T00:00:00.000Z",
+        "daysOnMarket": 68
+      },
+      "2025-05-05": {
+        "event": "Sale Listing",
+        "price": 189900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-05T00:00:00.000Z",
+        "removedDate": "2025-08-09T00:00:00.000Z",
+        "daysOnMarket": 96
+      },
+      "2026-02-25": {
+        "event": "Sale Listing",
+        "price": 298000,
+        "listingType": "Standard",
+        "listedDate": "2026-02-25T00:00:00.000Z",
+        "removedDate": "2026-04-07T00:00:00.000Z",
+        "daysOnMarket": 41
+      },
+      "2026-05-01": {
+        "event": "Sale Listing",
+        "price": 279000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-01T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 117
+      }
+    }
+  },
+  {
+    "id": "1612-Orlando-St-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1612 Orlando St SW, Atlanta, GA 30311",
+    "addressLine1": "1612 Orlando St SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.725461,
+    "longitude": -84.440935,
+    "propertyType": "Single Family",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFootage": 3700,
+    "lotSize": 9017,
+    "yearBuilt": 2024,
+    "status": "Active",
+    "price": 629000,
+    "listingType": "New Construction",
+    "listedDate": "2026-05-02T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-11-29T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:29:49.656Z",
+    "daysOnMarket": 116,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10756029",
+    "listingAgent": {
+      "name": "Keisha Woodbine",
+      "phone": "6788510206",
+      "email": "keishawoodbine@gmail.com"
+    },
+    "listingOffice": {
+      "name": "Exp Realty LLC",
+      "phone": "8889599461",
+      "email": "jason.white@exprealty.com"
+    },
+    "history": {
+      "2026-05-02": {
+        "event": "Sale Listing",
+        "price": 629000,
+        "listingType": "New Construction",
+        "listedDate": "2026-05-02T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 116
+      }
+    }
+  },
+  {
+    "id": "1778-Campbellton-Rd-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1778 Campbellton Rd SW, Atlanta, GA 30311",
+    "addressLine1": "1778 Campbellton Rd SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.710775,
+    "longitude": -84.44569,
+    "propertyType": "Single Family",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFootage": 1456,
+    "lotSize": 11674,
+    "yearBuilt": 1945,
+    "status": "Active",
+    "price": 199000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-06T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-11-18T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:29:49.599Z",
+    "daysOnMarket": 112,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10757475",
+    "listingAgent": {
+      "name": "Angela Carpinella",
+      "phone": "4042298528",
+      "email": "angela.carpinella@kw.com",
+      "website": "angela-carpinella.kw.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Rlty-Ptree Rd",
+      "phone": "4044193500",
+      "email": "lynnlecraw@kw.com",
+      "website": "peachtreeroad.yourkwoffice.com/mcj/user/homepagegetaction.do"
+    },
+    "history": {
+      "2024-11-17": {
+        "event": "Sale Listing",
+        "price": 228000,
+        "listingType": "Standard",
+        "listedDate": "2024-11-17T00:00:00.000Z",
+        "removedDate": "2025-07-01T00:00:00.000Z",
+        "daysOnMarket": 226
+      },
+      "2026-05-06": {
+        "event": "Sale Listing",
+        "price": 199000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-06T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 112
+      }
+    }
+  },
+  {
+    "id": "2008-Beecher-Rd-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "2008 Beecher Rd SW, Atlanta, GA 30311",
+    "addressLine1": "2008 Beecher Rd SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.733695,
+    "longitude": -84.453805,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 2235,
+    "lotSize": 13460,
+    "yearBuilt": 1945,
+    "status": "Active",
+    "price": 399900,
+    "listingType": "Standard",
+    "listedDate": "2026-05-07T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2024-11-16T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:27:21.211Z",
+    "daysOnMarket": 111,
+    "mlsName": "FMLS",
+    "mlsNumber": "7766908",
+    "listingAgent": {
+      "name": "Ellie Miller",
+      "phone": "9174744551",
+      "email": "ellie@smokeriseagents.com",
+      "website": "http://www.ellie-realestate.com"
+    },
+    "listingOffice": {
+      "name": "Soltys Inc",
+      "phone": "7705739715",
+      "email": "team@srasignaturerealty.com"
+    },
+    "history": {
+      "2024-11-15": {
+        "event": "Sale Listing",
+        "price": 230000,
+        "listingType": "Standard",
+        "listedDate": "2024-11-15T00:00:00.000Z",
+        "removedDate": "2024-12-19T00:00:00.000Z",
+        "daysOnMarket": 34
+      },
+      "2025-12-19": {
+        "event": "Sale Listing",
+        "price": 445000,
+        "listingType": "Standard",
+        "listedDate": "2025-12-19T00:00:00.000Z",
+        "removedDate": "2026-01-17T00:00:00.000Z",
+        "daysOnMarket": 29
+      },
+      "2026-05-07": {
+        "event": "Sale Listing",
+        "price": 399900,
+        "listingType": "Standard",
+        "listedDate": "2026-05-07T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 111
+      }
+    }
+  },
+  {
+    "id": "1788A-Campbellton-Rd-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1788A Campbellton Rd SW, Atlanta, GA 30311",
+    "addressLine1": "1788A Campbellton Rd SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.710835,
+    "longitude": -84.446236,
+    "propertyType": "Multi-Family",
+    "lotSize": 9845,
+    "yearBuilt": 1945,
+    "status": "Active",
+    "price": 255000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-07T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-05-08T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:27:21.183Z",
+    "daysOnMarket": 111,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10759963",
+    "listingAgent": {
+      "name": "Justin Landis",
+      "phone": "4048601816",
+      "email": "hello@justinlandisgroup.com",
+      "website": "http://www.justinlandisgroup.com"
+    },
+    "listingOffice": {
+      "name": "Bolst, Inc.",
+      "phone": "4044822293",
+      "email": "cathryn@bolst.homes"
+    },
+    "history": {
+      "2026-05-07": {
+        "event": "Sale Listing",
+        "price": 255000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-07T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 111
+      }
+    }
+  },
+  {
+    "id": "3140-Tylerton-Dr-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "3140 Tylerton Dr SW, Atlanta, GA 30311",
+    "addressLine1": "3140 Tylerton Dr SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.700932,
+    "longitude": -84.497101,
+    "propertyType": "Single Family",
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFootage": 2624,
+    "lotSize": 1568,
+    "yearBuilt": 2009,
+    "hoa": {
+      "fee": 180
+    },
+    "status": "Active",
+    "price": 359900,
+    "listingType": "Standard",
+    "listedDate": "2026-05-12T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-05-31T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:27:18.876Z",
+    "daysOnMarket": 106,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10762722",
+    "listingAgent": {
+      "name": "The Sly Team",
+      "phone": "4043494888",
+      "email": "majasly@gmail.com",
+      "website": "http://www.theslyteam.com/"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Realty Atlanta Perimeter",
+      "phone": "6782981600",
+      "email": "bradfeiman@kw.com",
+      "website": "http://www.kwdunwoody.com"
+    },
+    "history": {
+      "2026-05-12": {
+        "event": "Sale Listing",
+        "price": 359900,
+        "listingType": "Standard",
+        "listedDate": "2026-05-12T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 106
+      }
+    }
+  },
+  {
+    "id": "1775-Hadlock-St-SW,-Atlanta,-GA-30311",
+    "formattedAddress": "1775 Hadlock St SW, Atlanta, GA 30311",
+    "addressLine1": "1775 Hadlock St SW",
+    "addressLine2": null,
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.706932,
+    "longitude": -84.446699,
+    "propertyType": "Single Family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFootage": 1216,
+    "lotSize": 16509,
+    "yearBuilt": 1956,
+    "status": "Active",
+    "price": 325000,
+    "listingType": "Standard",
+    "listedDate": "2026-05-14T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2025-02-27T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:26:22.289Z",
+    "daysOnMarket": 104,
+    "mlsName": "GeorgiaMLS",
+    "mlsNumber": "10764359",
+    "listingAgent": {
+      "name": "Leonard Davis",
+      "phone": "6786707858",
+      "email": "gerraddavis@kw.com"
+    },
+    "listingOffice": {
+      "name": "Keller Williams Realty - W Atl",
+      "phone": "4709078266",
+      "email": "klrw1176@kw.com"
+    },
+    "history": {
+      "2025-02-28": {
+        "event": "Sale Listing",
+        "price": 139990,
+        "listingType": "Standard",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": "2025-03-08T00:00:00.000Z",
+        "daysOnMarket": 8
+      },
+      "2026-01-09": {
+        "event": "Sale Listing",
+        "price": 370000,
+        "listingType": "Standard",
+        "listedDate": "2026-01-09T00:00:00.000Z",
+        "removedDate": "2026-02-12T00:00:00.000Z",
+        "daysOnMarket": 34
+      },
+      "2026-02-14": {
+        "event": "Sale Listing",
+        "price": 349900,
+        "listingType": "Standard",
+        "listedDate": "2026-02-14T00:00:00.000Z",
+        "removedDate": "2026-05-14T00:00:00.000Z",
+        "daysOnMarket": 89
+      },
+      "2026-05-14": {
+        "event": "Sale Listing",
+        "price": 325000,
+        "listingType": "Standard",
+        "listedDate": "2026-05-14T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 104
+      }
+    }
+  },
+  {
+    "id": "2604-Campbellton-Rd-SW,-Apt-D4,-Atlanta,-GA-30311",
+    "formattedAddress": "2604 Campbellton Rd SW, Apt D4, Atlanta, GA 30311",
+    "addressLine1": "2604 Campbellton Rd SW",
+    "addressLine2": "Apt D4",
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.701709,
+    "longitude": -84.474067,
+    "propertyType": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "squareFootage": 1728,
+    "lotSize": 436,
+    "yearBuilt": 1967,
+    "status": "Active",
+    "price": 139900,
+    "listingType": "Foreclosure",
+    "listedDate": "2026-05-14T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-05-15T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:26:22.276Z",
+    "daysOnMarket": 104,
+    "mlsName": "FMLS",
+    "mlsNumber": "7770611",
+    "listingAgent": {
+      "name": "Jude Rasmus",
+      "phone": "7703211350",
+      "email": "info@rasmusrealestate.com"
+    },
+    "listingOffice": {
+      "name": "Rasmus Real Estate Group Inc",
+      "phone": "6784863232",
+      "email": "jrasmus@rasmusrealestate.com",
+      "website": "www.rasmusrealestate.com"
+    },
+    "history": {
+      "2026-05-14": {
+        "event": "Sale Listing",
+        "price": 139900,
+        "listingType": "Foreclosure",
+        "listedDate": "2026-05-14T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 104
+      }
+    }
+  },
+  {
+    "id": "2604-Campbellton-Rd-SW,-Apt-H4,-Atlanta,-GA-30311",
+    "formattedAddress": "2604 Campbellton Rd SW, Apt H4, Atlanta, GA 30311",
+    "addressLine1": "2604 Campbellton Rd SW",
+    "addressLine2": "Apt H4",
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.70239,
+    "longitude": -84.474546,
+    "propertyType": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "squareFootage": 1728,
+    "lotSize": 1045,
+    "yearBuilt": 1967,
+    "status": "Active",
+    "price": 139900,
+    "listingType": "Foreclosure",
+    "listedDate": "2026-05-14T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2021-05-12T09:48:44.837Z",
+    "lastSeenDate": "2026-08-25T12:26:22.272Z",
+    "daysOnMarket": 104,
+    "mlsName": "FMLS",
+    "mlsNumber": "7770768",
+    "listingAgent": {
+      "name": "Jude Rasmus",
+      "phone": "7703211350",
+      "email": "info@rasmusrealestate.com"
+    },
+    "listingOffice": {
+      "name": "Rasmus Real Estate Group Inc",
+      "phone": "6784863232",
+      "email": "jrasmus@rasmusrealestate.com",
+      "website": "www.rasmusrealestate.com"
+    },
+    "history": {
+      "2026-05-14": {
+        "event": "Sale Listing",
+        "price": 139900,
+        "listingType": "Foreclosure",
+        "listedDate": "2026-05-14T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 104
+      }
+    }
+  },
+  {
+    "id": "2604-Campbellton-Rd-SW,-Unit-1G,-Atlanta,-GA-30311",
+    "formattedAddress": "2604 Campbellton Rd SW, Unit 1G, Atlanta, GA 30311",
+    "addressLine1": "2604 Campbellton Rd SW",
+    "addressLine2": "Unit 1G",
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.701857,
+    "longitude": -84.47453,
+    "propertyType": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "squareFootage": 1728,
+    "lotSize": 1045,
+    "yearBuilt": 1967,
+    "status": "Active",
+    "price": 139900,
+    "listingType": "Foreclosure",
+    "listedDate": "2026-05-14T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-05-15T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:26:22.271Z",
+    "daysOnMarket": 104,
+    "mlsName": "FMLS",
+    "mlsNumber": "7770643",
+    "listingAgent": {
+      "name": "Jude Rasmus",
+      "phone": "7703211350",
+      "email": "info@rasmusrealestate.com"
+    },
+    "listingOffice": {
+      "name": "Rasmus Real Estate Group Inc",
+      "phone": "6784863232",
+      "email": "jrasmus@rasmusrealestate.com",
+      "website": "www.rasmusrealestate.com"
+    },
+    "history": {
+      "2026-05-14": {
+        "event": "Sale Listing",
+        "price": 139900,
+        "listingType": "Foreclosure",
+        "listedDate": "2026-05-14T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 104
+      }
+    }
+  },
+  {
+    "id": "2604-Campbellton-Rd-SW,-Unit-1B,-Atlanta,-GA-30311",
+    "formattedAddress": "2604 Campbellton Rd SW, Unit 1B, Atlanta, GA 30311",
+    "addressLine1": "2604 Campbellton Rd SW",
+    "addressLine2": "Unit 1B",
+    "city": "Atlanta",
+    "state": "GA",
+    "stateFips": "13",
+    "zipCode": "30311",
+    "county": "Fulton",
+    "countyFips": "121",
+    "latitude": 33.70227,
+    "longitude": -84.474006,
+    "propertyType": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "squareFootage": 1728,
+    "lotSize": 1089,
+    "yearBuilt": 1967,
+    "status": "Active",
+    "price": 139900,
+    "listingType": "Foreclosure",
+    "listedDate": "2026-05-14T00:00:00.000Z",
+    "removedDate": null,
+    "createdDate": "2026-05-15T00:00:00.000Z",
+    "lastSeenDate": "2026-08-25T12:26:22.265Z",
+    "daysOnMarket": 104,
+    "mlsName": "FMLS",
+    "mlsNumber": "7768833",
+    "listingAgent": {
+      "name": "Jude Rasmus",
+      "phone": "7703211350",
+      "email": "info@rasmusrealestate.com"
+    },
+    "listingOffice": {
+      "name": "Rasmus Real Estate Group Inc",
+      "phone": "6784863232",
+      "email": "jrasmus@rasmusrealestate.com",
+      "website": "www.rasmusrealestate.com"
+    },
+    "history": {
+      "2026-05-14": {
+        "event": "Sale Listing",
+        "price": 139900,
+        "listingType": "Foreclosure",
+        "listedDate": "2026-05-14T00:00:00.000Z",
+        "removedDate": null,
+        "daysOnMarket": 104
+      }
+    }
+  }
+]
