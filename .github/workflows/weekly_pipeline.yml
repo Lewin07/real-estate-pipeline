@@ -8,6 +8,7 @@ on:
 permissions:
   id-token: write   # necesario para Workload Identity Federation
   contents: read
+  issues: write
 
 jobs:
   run-pipeline:
@@ -19,7 +20,7 @@ jobs:
       - name: Autenticar con Google Cloud (sin key, vía WIF)
         uses: google-github-actions/auth@v2
         with:
-          workload_identity_provider: "projects/774003068253/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
+          workload_identity_provider: "projects/PROJECT_NUMBER/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
           service_account: "github-actions-sa@real-estate-pipeline-507020.iam.gserviceaccount.com"
 
       - name: Configurar Python
@@ -43,3 +44,12 @@ jobs:
         env:
           DBT_PROFILES_DIR: .
         run: dbt build
+      
+      - name: Crear alerta (issue) si algo falló
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "🔴 Pipeline falló - $(date +'%Y-%m-%d')" \
+            --body "El workflow semanal falló. Revisa los logs completos aquí: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
