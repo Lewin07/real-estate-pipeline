@@ -19,7 +19,7 @@ jobs:
       - name: Autenticar con Google Cloud (sin key, vía WIF)
         uses: google-github-actions/auth@v2
         with:
-          workload_identity_provider: "projects/PROJECT_NUMBER/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
+          workload_identity_provider: "projects/774003068253/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
           service_account: "github-actions-sa@real-estate-pipeline-507020.iam.gserviceaccount.com"
 
       - name: Configurar Python
