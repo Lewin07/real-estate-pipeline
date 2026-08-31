@@ -100,6 +100,12 @@ Definidos en `ZIP_CODES` dentro de `ingest.py`, fijos entre corridas para poder 
 - La capa silver (`stg_listings`) deduplica con `ROW_NUMBER()`/`QUALIFY` por `(listing_id, captured_at)`.
 - `propertyType: "Land"` no trae `bedrooms`/`bathrooms`/`squareFootage`/`yearBuilt` — se maneja como nulo explícito, no como error, y los tests de dbt lo reflejan (sin `not_null` forzado en esos campos).
 
+## Dashboard
+
+[Ver dashboard en vivo](https://datastudio.google.com/s/hv-5tgZC3_w) — precio promedio y precio por m² comparado entre zonas y tipos de propiedad, conectado directo a la tabla `gold_price_by_property_type`.
+
+Google renombró la herramienta de "Looker Studio" a "Data Studio" en 2026
+
 ## Roadmap
 
 - [x] Ingesta con manejo de errores, retries y logging
@@ -109,5 +115,5 @@ Definidos en `ZIP_CODES` dentro de `ingest.py`, fijos entre corridas para poder 
 - [x] Modelos dbt (staging → gold) con tests
 - [x] Orquestación automática semanal (GitHub Actions + Workload Identity Federation)
 - [x] Alertas automáticas en caso de falla
-- [ ] Dashboard (Looker Studio)
+- [x] Dashboard (Data Studio)
 - [ ] Tabla de historial de precios por listado (despivot de `history`)
