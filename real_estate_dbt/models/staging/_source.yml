@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: real_estate
+    dataset: real_estate
+    tables:
+      - name: bronze_listing
+        description: "Listados crudos de RentCast, cargados por ingest.py + load_to_bigquery.py"

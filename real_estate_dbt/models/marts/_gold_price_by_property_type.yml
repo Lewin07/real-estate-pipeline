@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: gold_price_by_property_type
+    description: "Precio promedio, precio por m² y días en mercado, agregados por zona/tipo/fecha de captura"
+    columns:
+      - name: zip_code
+        tests:
+          - not_null
+      - name: listing_count
+        tests:
+          - not_null

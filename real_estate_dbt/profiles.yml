@@ -1,0 +1,13 @@
+real_estate_dbt:
+  outputs:
+    dev:
+      dataset: real_estate
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: US
+      method: oauth
+      priority: interactive
+      project: real-estate-pipeline-507020
+      threads: 1
+      type: bigquery
+  target: dev

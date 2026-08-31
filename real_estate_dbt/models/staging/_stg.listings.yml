@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: stg_listings
+    description: "Listados de RentCast, limpios y tipados, deduplicados por (listing_id, captured_at)"
+    columns:
+      - name: listing_id
+        description: "ID único del listado según RentCast"
+        tests:
+          - not_null
+      - name: property_type
+        description: "Tipo de propiedad"
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Single Family', 'Condo', 'Townhouse', 'Multi-Family', 'Land']
+      - name: price
+        tests:
+          - not_null
