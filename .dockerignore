@@ -5,3 +5,4 @@ __pycache__/
 bronze/
 ingest.log
 .git/
+bronze/loaded/

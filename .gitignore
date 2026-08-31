@@ -7,3 +7,5 @@ load.log
 gcp-credentials.json
 codigosgcloud.txt
 apikey.txt
+bronze/loaded/
+bronze/
