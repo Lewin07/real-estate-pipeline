@@ -1,0 +1,82 @@
+[0m18:29:55.629340 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1123a2270>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x113f56710>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x113f56990>]}
+
+
+============================== 18:29:55.640925 | c4e0fa3b-02d8-45fe-8e4b-ba97c658cd55 ==============================
+[0m18:29:55.640925 [info ] [MainThread]: Running with dbt=1.12.3
+[0m18:29:55.642208 [debug] [MainThread]: running dbt with arguments {'invocation_command': 'dbt init real_estate_dbt', 'maximum_seed_size_mib': '1', 'empty': 'None', 'static_parser': 'True', 'indirect_selection': 'eager', 'warn_error': 'None', 'log_path': 'logs', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'version_check': 'True', 'send_anonymous_usage_stats': 'True', 'introspect': 'True', 'write_json': 'True', 'target_path': 'None', 'profiles_dir': '/Users/lewin/.dbt', 'partial_parse': 'True', 'log_cache_events': 'False', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'printer_width': '80', 'quiet': 'False', 'hints_enabled': 'True'}
+[0m18:29:55.676006 [info ] [MainThread]: Creating dbt configuration folder at /Users/lewin/.dbt
+[0m18:29:55.678286 [debug] [MainThread]: Starter project path: /Users/lewin/Proyectos/Pipeline_Propiedades/venv/lib/python3.14/site-packages/dbt/include/starter_project
+[0m18:29:55.731832 [info ] [MainThread]: Setting up your profile.
+[0m18:33:35.508830 [info ] [MainThread]: Profile real_estate_dbt written to /Users/lewin/.dbt/profiles.yml using target's profile_template.yml and your supplied values.
+[0m18:33:35.515569 [info ] [MainThread]: Running dbt debug to validate the project...
+[0m18:33:35.517485 [info ] [MainThread]: dbt version: 1.12.3
+[0m18:33:35.518675 [info ] [MainThread]: python version: 3.14.7
+[0m18:33:35.519275 [info ] [MainThread]: python path: /Users/lewin/Proyectos/Pipeline_Propiedades/venv/bin/python3.14
+[0m18:33:35.519758 [info ] [MainThread]: os info: macOS-26.6-x86_64-i386-64bit-Mach-O
+[0m18:33:35.606995 [info ] [MainThread]: Using profiles dir at /Users/lewin/.dbt
+[0m18:33:35.607515 [info ] [MainThread]: Using profiles.yml file at /Users/lewin/.dbt/profiles.yml
+[0m18:33:35.607936 [info ] [MainThread]: Using dbt_project.yml file at /Users/lewin/Proyectos/Pipeline_Propiedades/real_estate_dbt/dbt_project.yml
+[0m18:33:35.608266 [info ] [MainThread]: adapter type: bigquery
+[0m18:33:35.608584 [info ] [MainThread]: adapter version: 1.12.0
+[0m18:33:35.756523 [info ] [MainThread]: Configuration:
+[0m18:33:35.757040 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m18:33:35.757410 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m18:33:35.757735 [info ] [MainThread]: Required dependencies:
+[0m18:33:35.758198 [debug] [MainThread]: Executing "git --help"
+[0m18:33:35.819269 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory\n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   restore    Restore working tree files\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   diff       Show changes between commits, commit and working tree, etc\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   backfill   Download missing objects in a partial clone\n   branch     List, create, or delete branches\n   commit     Record changes to the repository\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   reset      Reset current HEAD to the specified state\n   switch     Switch branches\n   tag        Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m18:33:35.820371 [debug] [MainThread]: STDERR: "b''"
+[0m18:33:35.820781 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m18:33:35.821188 [info ] [MainThread]: Connection:
+[0m18:33:35.821871 [info ] [MainThread]:   method: oauth
+[0m18:33:35.822459 [info ] [MainThread]:   database: real-estate-pipeline-507020
+[0m18:33:35.822857 [info ] [MainThread]:   execution_project: real-estate-pipeline-507020
+[0m18:33:35.823397 [info ] [MainThread]:   schema: real_estate
+[0m18:33:35.823843 [info ] [MainThread]:   location: US
+[0m18:33:35.824219 [info ] [MainThread]:   priority: interactive
+[0m18:33:35.824594 [info ] [MainThread]:   maximum_bytes_billed: None
+[0m18:33:35.824929 [info ] [MainThread]:   reservation: None
+[0m18:33:35.825316 [info ] [MainThread]:   impersonate_service_account: None
+[0m18:33:35.825658 [info ] [MainThread]:   job_retry_deadline_seconds: None
+[0m18:33:35.825999 [info ] [MainThread]:   job_retries: 1
+[0m18:33:35.826295 [info ] [MainThread]:   job_creation_timeout_seconds: None
+[0m18:33:35.827183 [info ] [MainThread]:   job_execution_timeout_seconds: 300
+[0m18:33:35.827663 [info ] [MainThread]:   job_link_info_level_log: False
+[0m18:33:35.828055 [info ] [MainThread]:   timeout_seconds: 300
+[0m18:33:35.828656 [info ] [MainThread]:   client_id: None
+[0m18:33:35.829769 [info ] [MainThread]:   token_uri: None
+[0m18:33:35.830411 [info ] [MainThread]:   compute_region: None
+[0m18:33:35.830803 [info ] [MainThread]:   dataproc_cluster_name: None
+[0m18:33:35.831182 [info ] [MainThread]:   gcs_bucket: None
+[0m18:33:35.831633 [info ] [MainThread]:   dataproc_batch: None
+[0m18:33:35.832625 [info ] [MainThread]: Registered adapter: bigquery=1.12.0
+[0m18:33:36.019668 [debug] [MainThread]: Acquiring new bigquery connection 'debug'
+[0m18:33:36.020445 [debug] [MainThread]: On debug: select 1 as id
+[0m18:33:36.020943 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m18:33:42.828283 [debug] [MainThread]: BigQuery adapter: https://console.cloud.google.com/bigquery?project=real-estate-pipeline-507020&j=bq:US:3c23ea79-3988-4b2a-be9e-44fc7c85d407&page=queryresults
+[0m18:33:43.187669 [debug] [MainThread]: SQL status: OK in 0.358 seconds
+[0m18:33:43.544966 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m18:33:43.546175 [info ] [MainThread]: [32mAll checks passed![0m
+[0m18:33:43.547473 [info ] [MainThread]: Your new dbt project "real_estate_dbt" was created!
+Initialized new project in /Users/lewin/Proyectos/Pipeline_Propiedades/real_estate_dbt/real_estate_dbt
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m18:33:43.562947 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 228.16125, "process_in_blocks": "0", "process_kernel_time": 1.071571, "process_mem_max_rss": "231669760", "process_out_blocks": "0", "process_user_time": 4.071564}
+[0m18:33:43.564595 [debug] [MainThread]: Command `dbt init` succeeded at 18:33:43.564316 after 228.16 seconds
+[0m18:33:43.565542 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m18:33:43.566433 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x113fc4770>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x122ccb410>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x122cd29c0>]}
+[0m18:33:43.567135 [debug] [MainThread]: Flushing usage events
+[0m18:33:44.865200 [debug] [MainThread]: An error was encountered while trying to flush usage events

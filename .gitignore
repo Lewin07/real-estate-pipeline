@@ -5,3 +5,5 @@ venv/
 ingest.log
 load.log
 gcp-credentials.json
+codigosgcloud.txt
+apikey.txt

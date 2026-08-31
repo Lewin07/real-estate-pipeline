@@ -1,0 +1,45 @@
+name: Pipeline semanal de bienes raíces
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"  # todos los lunes a las 9:00 UTC
+  workflow_dispatch: {}    # permite correrlo manualmente desde GitHub también
+
+permissions:
+  id-token: write   # necesario para Workload Identity Federation
+  contents: read
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repo
+        uses: actions/checkout@v4
+
+      - name: Autenticar con Google Cloud (sin key, vía WIF)
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: "projects/PROJECT_NUMBER/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
+          service_account: "github-actions-sa@real-estate-pipeline-507020.iam.gserviceaccount.com"
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr ingesta (RentCast -> bronze)
+        env:
+          RENTCAST_API_KEY: ${{ secrets.RENTCAST_API_KEY }}
+        run: python ingest.py
+
+      - name: Cargar bronze a BigQuery
+        run: python load_to_bigquery.py
+
+      - name: Correr dbt build (silver + gold + tests)
+        working-directory: ./real_estate_dbt
+        env:
+          DBT_PROFILES_DIR: .
+        run: dbt build
