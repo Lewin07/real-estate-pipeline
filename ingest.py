@@ -3,6 +3,9 @@ import json
 from datetime import datetime, timezone
 import time
 import logging
+from logging.handlers import TimedRotatingFileHandler
+
+file_handler = TimedRotatingFileHandler("ingest.log", when="W0", interval=1,backupCount=8)
 
 
 import requests
@@ -13,7 +16,7 @@ logging.basicConfig(
     level = logging.INFO,
     format = "%(asctime)s [%(levelname)s] %(message)s",
     handlers = [
-        logging.FileHandler("ingest.log"),
+        file_handler,
         logging.StreamHandler() #lo muestra en pantalla.
     ]
 )
